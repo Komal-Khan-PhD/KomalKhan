@@ -1,4 +1,4 @@
-# ⚡ Dr. [Your Name] | Electrical Engineer & Digital Transformation Innovator  
+# ⚡ Dr. Komal Khan | Electrical Engineer & Digital Transformation Innovator  
 **🌍 Bridging Energy Systems with Cutting-Edge Tech**  
 
 📌 **PhD in Electrical Engineering (Cum Laude)** | **Tech Stack**: IoT • Blockchain • ML/AI  
