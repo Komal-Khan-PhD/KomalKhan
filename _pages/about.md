@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # ⚡ Dr. Komal Khan | Electrical Engineer & Digital Transformation Innovator  
 **🌍 Bridging Energy Systems with Cutting-Edge Tech**  
 
