@@ -17,6 +17,6 @@
 📫 **Let’s Collaborate** on energy innovation!  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:your.email@example.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/-Projects-181717?logo=github)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/-Projects-181717?logo=github)](https://github.com/Komal-Khan-PhD)  
 
 *"Engineering tomorrow’s energy systems with today’s emerging tech."*  
